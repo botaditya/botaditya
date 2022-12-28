@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Flutter & Dart
 - 💬 Ask me about InfoSec, Product, Astronomy
 - 📫 How to reach me: kul.aditya1@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to dive deep till kernel level
 
 ## 🌐 Socials:
